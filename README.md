@@ -1,8 +1,6 @@
-# Enternflix API Documentation
+# 🎬 Enternflix REST API
 
-## Overview
-
-Enternflix API is a customizable API built using Spring Boot that integrates with The Movie Database (TMDb) API and uses MongoDB for data storage. This API allows you to fetch and manage movie-related data efficiently.
+🚀 Enternflix REST API is the backend service for the Enternflix streaming platform (a Netflix clone). Built with Spring Boot and Spring Security, this API provides secure and scalable endpoints to support a production-ready application.
 
 ## Features
 
@@ -15,25 +13,6 @@ Enternflix API is a customizable API built using Spring Boot that integrates wit
 - Java 17 or higher
 - Maven 3.8.1 or higher
 - MongoDB 4.4 or higher
-
-## Installation
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/yourusername/enternflix-api.git
-   ```
-
-2. Navigate to the project directory:
-
-   ```bash
-   cd enternflix-api
-   ```
-
-3. Install the dependencies:
-   ```bash
-   mvn clean install
-   ```
 
 ## Configuration
 
